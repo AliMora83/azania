@@ -11474,6 +11474,16 @@ h4.title {
   border-radius: var(--border-radius-full);
   padding: 50px; }
 
+.donar-img2 {
+  background: url(../images/kids.jpeg) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  border-radius: var(--border-radius-full);
+  padding: 50px; }
+
 .right-side {
   max-width: 300px;
   margin-left: auto;
